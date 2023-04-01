@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm cuba</h1>
 <h3 align="center">A Web and Frontend Developer from Germany.</h3>
 
-- 🔭 I’m currently working on [Virtual Los Angeles](https://discord.gg/jJ9bFjxuu5)
-
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning **C# , C++**
 
 - 📫 How to reach me **cuba.#9216 (Discord)**
