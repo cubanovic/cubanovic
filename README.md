@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey , I'm cuba. a Frontend and Webdeveloper from Germany </div>  
+### <div align="center">Hey , I'm cuba. Frontend and Webdeveloper from Germany </div>  
   
 
 - 🔭 I’m currently working on Virtual Los Angeles , Vero Roleplay  
