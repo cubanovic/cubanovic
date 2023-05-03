@@ -1,13 +1,4 @@
 
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cubanovic.cubanovic&"  />
-</div>
-
-###
-
 <h1 align="center">👋 Hey , Im cuba. a Frontend an Webdevloper From Germany</h1>
 
 ###
@@ -16,7 +7,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working on noting <br>- 📚 I'm currently learning Vue.JS<br>Discord: cuba.#9216 == DM me</p>
+<p align="left"><br>- 🔭 I’m working on noting <br>- 📚 I'm currently learning Vue.JS<br>Discord: cuba.#9216 == DM me</p>
 
 ###
 
