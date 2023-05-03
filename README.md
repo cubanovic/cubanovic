@@ -6,7 +6,7 @@
 ### <div align="center">Hey , I'm cuba. Frontend and Webdeveloper from Germany </div>  
   
 
-- 🔭 I’m currently working on Virtual Los Angeles , Vero Roleplay  
+- 🔭 I’m currently working on nothing (DM me!!) 
   
 
 - 🌱 I’m currently learning C++ and C#  
