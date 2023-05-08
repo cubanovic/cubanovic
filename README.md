@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hey , Im cuba  A Frontend an Webdeveloper From Germany</h1>
+<h1 align="center">👋 Hey , Im cuba  A Frontend & Webdeveloper From Germany</h1>
 
 ###
 
