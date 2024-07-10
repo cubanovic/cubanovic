@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working on noting <br>- 📚 I'm currently learning Vue.JS<br>Discord: cuba.#9216 == DM me</p>
+<p align="left"><br>- 🔭 I’m working on noting <br>- 📚 I'm currently learning svelte<br>Discord: cuba.#9216 == DM me</p>
 
 ###
 
